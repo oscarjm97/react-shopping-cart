@@ -1,5 +1,5 @@
 .cart {
-    background: #000;
+    background: #cfcfcf;
     display: none;
     padding: 32px;
     position: fixed;
@@ -38,7 +38,7 @@
     height: 32px;
     justify-content: center;
     padding: 4px;
-    position: absolute;
+    position: fixed;
     right: 8px;
     top: 8px;
     transition: all 0.3s ease;
