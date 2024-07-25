@@ -36,3 +36,7 @@
     object-fit: cover;
     background: #fff;
 }
+
+.products .remove {
+    background-color: red;
+}
